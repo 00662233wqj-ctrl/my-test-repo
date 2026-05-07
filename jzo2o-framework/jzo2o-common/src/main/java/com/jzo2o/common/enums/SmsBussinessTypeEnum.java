@@ -10,3 +10,4 @@ public enum SmsBussinessTypeEnum {
 
     private int type;
 }
+//测试
